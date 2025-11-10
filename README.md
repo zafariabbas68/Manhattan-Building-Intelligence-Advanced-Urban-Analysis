@@ -1,6 +1,9 @@
 # Manhattan Building Intelligence: Advanced Urban Analysis
 
-![Manhattan Building Heights](manhattan_building_heights_professional.png)
+![Manhattan Building Heights](visualizations/manhattan_building_heights_professional.png)
+
+
+
 
 ## 📋 Project Overview
 
@@ -21,7 +24,7 @@
 - **Neighborhood Analysis**: Comparative charts and spatial distribution maps
 - **Interactive Web Maps**: Clickable building footprints with detailed popup information
 
-![3D Building Visualization](manhattan_3d_buildings.png)
+![3D Building Visualization](visualizations/manhattan_3d_buildings.png)
 
 ## 🛠️ Installation & Setup
 
