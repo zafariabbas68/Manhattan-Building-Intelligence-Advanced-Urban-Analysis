@@ -3,7 +3,7 @@
 
 ![Manhattan Building Heights](visualizations/manhattan_building_heights_professional.png)
 
-![Manhattan Building Heights Analysis](visualizations/manhattan_building_heights_VISUALLY_STUNNING_2.png)
+![Manhattan Building Heights Analysis](visualizations/Building.png)
 
 ![3D Building Visualization](visualizations/manhattan_3d_buildings.png)
 
